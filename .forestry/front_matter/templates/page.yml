@@ -11,6 +11,7 @@ fields:
   label: content
   name: content
 pages:
+- le-theatre.md
 - les-liens-et-les-lignes-de-force.md
 - la-famille-d-origine.md
 - introduction.md
