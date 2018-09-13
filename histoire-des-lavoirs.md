@@ -27,6 +27,5 @@ content: |-
   (1) : René Moreau et Lina Frisque, les parents de Claude, se sont connus au Lavoir....son oncle Jean épouse Alice Van Roy, fille de commerçants établis au carrefour de la Chasse....une sympathique « entre-soi » etterbeekois (bruxellois).
 
   (2) : Un fragment de béton projeté par l'explosion....atterrit dans le jardin de la maison d'Isabelle, située à l'arrière de l'école (le grand-père d'Isabelle qui prenait plaisir à observer les avions bombardiers était miraculeusement absent ce jour là !).
-published: false
 
 ---
