@@ -13,6 +13,5 @@ content: |-
   1) : Photocopie de la carte de visite en annexe
 
   (2) : Album de photos, exceptionnel !
-published: false
 
 ---
