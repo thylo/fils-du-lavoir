@@ -38,6 +38,5 @@ content: "Une tradition familiale... : la devise du scoutisme « De notre mieu
   notre mieux ! ».\n\nChez les Scouts : « Scouts toujours prêts ! ».\n\nAu Clan :
   « Servir ! »\n\nLe salut scout :\n\nLes trois doigts levés :                 \n\nfranchise\n\ndévouement\n\npureté\n\nLes
   deux doigts repliés l'un sur l'autre : « Le fort protège le faible »."
-published: false
 
 ---
