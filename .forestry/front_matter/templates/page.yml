@@ -11,6 +11,7 @@ fields:
   label: content
   name: content
 pages:
+- les-grands-lavoirs-de-la-chasse.md
 - au-theatre-national.md
 - le-theatre.md
 - les-liens-et-les-lignes-de-force.md
