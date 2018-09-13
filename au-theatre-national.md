@@ -14,6 +14,5 @@ content: |-
   * L'année du Bac
 
   Sa vie de saltimbanque, les tournées qui tiennent éloigné de la famille ont contraint Claude à quitter le Théâtre après deux saisons. Avec regrets....
-published: false
 
 ---
