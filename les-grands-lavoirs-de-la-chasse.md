@@ -1,5 +1,5 @@
 ---
-title: Les Grands Lavoirs de la Chasse.
+title: Minerva
 date: 2018-09-13 19:08:29 +0000
 content: |-
   Dans l'entre-deux guerres, Albert Moreau, le grand-père de Claude, exerce à Bruxelles la fonction de directeur de l'Agence des Automobiles (1).
