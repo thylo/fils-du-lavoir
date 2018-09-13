@@ -10,6 +10,9 @@ fields:
       format: markdown
   label: content
   name: content
+- type: text
+  label: title
+  name: title
 pages:
 - les-grands-lavoirs-de-la-chasse.md
 - au-theatre-national.md
