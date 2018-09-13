@@ -32,7 +32,7 @@ content: "Une tradition familiale... : la devise du scoutisme « De notre mieu
   mixte. Une exception a été accordée pour ce faire par la Fédération.\n\nL'engagement
   chrétien :\n\nLe Clan apporte son aide, ses services, à la Paroisse.\n\nUne fête
   annuelle est organisée par celui-ci en l'honneur des personnes âgées.\n\nChaque
-  lundi, l'une ou l'autre épouse apporte son soutien aux anciens. \n\nLes devises :\n\nClaude
+  lundi, l'une ou l'autre épouse apporte son soutien aux anciens. \n\n  \nLes devises :\n\nClaude
   appartient à la patrouille des Hirondelles : « Hirondelles, toujours fidèles ! ».\n\nFidélité
   à laquelle Claude restera toute sa vie fort attaché.\n\nChez les Louveteaux : « De
   notre mieux ! ».\n\nChez les Scouts : « Scouts toujours prêts ! ».\n\nAu Clan :
