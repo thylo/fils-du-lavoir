@@ -11,4 +11,5 @@ fields:
   label: content
   name: content
 pages:
+- introduction.md
 - dedicace.md
