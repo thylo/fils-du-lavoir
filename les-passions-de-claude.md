@@ -78,9 +78,7 @@ content: |-
   * Michel Khan (batterie)
   * Claude Moreau (tuba)
 
-   
-
-  Nous répétions dans notre local de Clan puis rue de l'Escalier, en ville, dans un vieux bâtiment. Nous y avons fait plusieurs soirées en décorant la salle et le bar (nous avions besoin d'argent pour payer notre location).
+   Nous répétions dans notre local de Clan puis rue de l'Escalier, en ville, dans un vieux bâtiment. Nous y avons fait plusieurs soirées en décorant la salle et le bar (nous avions besoin d'argent pour payer notre location).
 
   Nous avons beaucoup joué pour des soirées, par exemple au bal de la Blanchisserie, au Saint Sauveur et en Américaine avec les « Cousins ». Nous nous sommes faits bissés par le public et sur l'insistance des « Cousins », groupe très coté à l'époque, nous avons rejoué.
 
