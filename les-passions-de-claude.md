@@ -103,6 +103,5 @@ content: |-
   Aguerri, Claude pratiquera plus tard la voile en Bretagne : Belle-Île, Haedic, Quiberon...
 
   (1) : Il sera baptisé du nom de « La belle Rombière », titre de la pièce de théâtre jouée à ce moment là au Poche...
-published: false
 
 ---
