@@ -85,7 +85,21 @@ content: "Fondés en 1932 par Albert, René Moreau (son fils aîné) et Mr Loriu
   de la profession, y compris du point de vue législatif.\n\nElle édite un journal
   (cfr un exemplaire en annexe).\n\nPour l'anecdote, elle organise un Bal annuel de
   la Blanchisserie, au cours duquel sont élues la « Reine de la Blanchisserie » et
-  ses deux dames d'honneur ! (cfr photo d'époque!)"
+  ses deux dames d'honneur ! (cfr photo d'époque!)\n\nLes Grands Lavoirs de la Chasse
+  jouissent d'une belle clientèle, issue des « lieux frastres » de l'époque, quartier
+  de la Chasse.\n\nDes liens solides et amicaux se nouent d'une part entre les clientes
+  -qui y avaient leurs habitudes et leurs rythmes- et étaient friandes des conseils
+  de Monsieur René et les feux du Lavoir d'autre part.\n\nUne véritable petite « vie
+  sociale » se déroulait entre ses murs !\n\nUn bémol : la résistance de certaines
+  clientes au changement (pourtant indispensable d 'un point de vue technique) reste
+  un frein à la modernisation.\n\nVie sociale...et « rôle social » qui seront appelés
+  à jouer les Blanchisseries.\n\nSavez-vous qu'en 1959, les Blanchisseries sont appelées
+  à remplir un rôle social en libérant la ménagère de l'esclavage des lessives et
+  du repassage (cfr document 1).\n\nLe slogan-diffusé sous forme de « réclame » par
+  la S..A.Lainière de Sclessin est parlant !\n\nUn remarquable petit livret (cfr document
+  2)- édité sans doute par l'association des Blanchisseurs illustre à merveille ce
+  propos.\n\nA joindre à titre de document original : il vante entre autre tous les
+  mérites et avantages du « blanchissage lors du ménage »."
 published: false
 
 ---
