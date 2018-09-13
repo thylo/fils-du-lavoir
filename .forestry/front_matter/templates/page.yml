@@ -10,3 +10,5 @@ fields:
       format: markdown
   label: content
   name: content
+pages:
+- dedicace.md
