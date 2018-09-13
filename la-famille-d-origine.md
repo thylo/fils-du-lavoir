@@ -21,6 +21,5 @@ content: |-
   Fierté d'appartenance...devoir d'exigence... ?
 
   Ruptures, aussi, ruptures et rebellions...
-published: false
 
 ---
