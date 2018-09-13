@@ -61,13 +61,29 @@ content: "Fondés en 1932 par Albert, René Moreau (son fils aîné) et Mr Loriu
   de chemises, les clientes devaient chauffer l'eau dans un seau en le glissant sous
   un tuyau qui fournissait de la vapeur et en ouvrant une vanne. Pendant leur lessive,
   elles pouvaient aller boire au bar une tasse de café ou une bouteille de limonade
-  rafraîchie dans un seau pendu dans une des citernes. Pour vous prouver qu'il y avait
-  beaucoup de changements, voici une preuve : mon père sert une cliente qui lui demande :
+  rafraîchie dans un seau pendu dans une des citernes.\n* Nous avions aussi quelques
+  clientes très difficiles : il fallait un pliage spécial de leur linge pour qu'il
+  soit correctement placé dans leurs armoires.\n\nMonsieur Moreau et son fils René
+  sont animés tous deux par un souci constant de perfectionnement.\n\nUne manière
+  de donner libre cours à leurs goûts pour la mécanique et l'inventivité entre l'objectif
+  d'une efficacité maximale et d'un rendement optimal, le souhait de « se réaliser »à
+  travers les activités professionnelles, d'y trouver intérêt et épanouissement, les
+  pousse sans cesse à innover et transformer.\n\nIllustration en est donnée par cette
+  anecdote amusante rappelée par Claude :\n\n* Mon père sert une cliente qui lui demande :
   « Et bien, Monsieur René, vous avez été malade ? » Non répond mon père. Mais si,
   insiste la cliente....Mais pourquoi me demandez vous cela ? Elle répond : « Mais
-  depuis la semaine passée, il n'y a rien qui a changé.... ! »\n* Nous avions aussi
-  quelques clientes très difficiles : il fallait un pliage spécial de leur linge pour
-  qu'il soit correctement placé dans leurs armoires."
+  depuis la semaine passée, il n'y a rien qui a changé.... ! »\n* \n\nMonsieur René
+  est un patron de type « classique », attentif à son personnel, ouvert mais réservé,
+  peu enclin aux familiarités.\n\nA noter : peu d'absentéisme aux Lavoirs, signe d'un
+  bon « climat social » !\n\nLes tâches managériales se répartissent comme suit entre
+  les deux frères :\n\n* l'accueil est assuré conjointement\n* l'administratif par
+  Monsieur Jean\n* le « technique » par Monsieur René\n\n Après y avoir exercé différents
+  mandats, Monsieur René devient président de :\n\n     « La Fédération nationale
+  de la Blanchisserie »\n\nElle représente et défend les intérêts des mondes de la
+  profession, y compris du point de vue législatif.\n\nElle édite un journal (cfr
+  un exemplaire en annexe).\n\nPour l'anecdote, elle organise un Bal annuel de la
+  Blanchisserie, au cours duquel sont élues la « Reine de la Blanchisserie » et ses
+  deux dames d'honneur ! (cfr photo d'époque!)"
 published: false
 
 ---
