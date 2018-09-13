@@ -16,8 +16,6 @@ content: |-
 
   N.B:Afin que les mots gardent tout leur sens, le terme de « mentor » sera réservé à Paul Thielen, Joseph Orszagh et Michel Radoux et celui de conseiller, tout aussi noble mais moins prégnant, aux autres « guides »...
 
-                              
-
   En 1993, nous avons conçu et réalisé les transformations du chalet de vacances de mes parents (ancien stand à l'Expo de 1935), qui avait d'abord été installé à Ottignies, en haut du Bois des Rêves, chez des amis que mes parents connaissaient grâce au Lavoir où ils étaient clients. J'y ai passé des vacances pendant la guerre. Puis ce pavillon leur a été racheté pour l'installer à Glabais en 1962. Nous l'avons converti en « maison écologique » : aménagements, isolation, chauffage, électricité... Nous y sommes toujours et... très heureux !!!
 published: false
 
