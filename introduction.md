@@ -27,6 +27,5 @@ content: |-
   « Donner de l'espoir aux jeunes générations en leur montrant ce qui est possible, savoir s'adapter et le vouloir,avoir des idées et chercher à comprendre, s’intéresser aux études, celles de l'école et, surtout, celles de la vie ! »
 
   Les « lignes de force » qui caractérisent l'évolution de la famille Moreau – de son arrière grand-père (à Saintes, en France) jusqu'à Claude (à Glabais) sont toutes inscrites dans ce « programme ».
-published: false
 
 ---
