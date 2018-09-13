@@ -3,6 +3,9 @@ label: Page
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  label: title
+  name: title
 - type: textarea
   config:
     wysiwyg: true
@@ -10,9 +13,6 @@ fields:
       format: markdown
   label: content
   name: content
-- type: text
-  label: title
-  name: title
 pages:
 - les-grands-lavoirs-de-la-chasse.md
 - au-theatre-national.md
