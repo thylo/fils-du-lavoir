@@ -53,7 +53,7 @@ content: |-
   * le salut au drapeau
   * « désertés »....
 
-                                                                           Étudier, ce sera pourtant ce à quoi Claude s'appliquera tout au long de sa vie professionnelle.
+                                                                     Étudier, ce sera pourtant ce à quoi Claude s'appliquera tout au long de sa vie professionnelle.
 
   L'acte d'étudier, c'est appliquer son esprit à apprendre, à comprendre, à connaître.
 
