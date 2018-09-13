@@ -31,6 +31,5 @@ content: |-
   À LLN, Isabelle continue ses tournées, cet aspect de son travail qui lui plaît tout particulièrement : une activité professionnelle dans un cadre familial, ouvert sur les relations sociales.... 
 
   « Cela m'a bien plu, j'y ai trouvé mon compte (malgré les difficultés à marquer les limites entre famille et travail...et une charge de travail maternel et professionnel bien lourde dans ses jeunes années). Isabelle = énergie + enthousiasme !
-published: false
 
 ---
