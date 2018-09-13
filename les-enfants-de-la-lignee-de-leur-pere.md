@@ -9,6 +9,5 @@ content: |-
   Benoît : services en informatique
 
   Christine : enseignante en Arts Plastiques
-published: false
 
 ---
