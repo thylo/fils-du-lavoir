@@ -20,28 +20,28 @@ content: "Fondés en 1932 par Albert, René Moreau (son fils aîné) et Mr Loriu
   période de la guerre a été un moment très difficile.Mon père est heureusement revenu
   pour des questions techniques. Comme le charbon manquait, il a dû être remplacé
   temporairement par du « chlamm » pour la chaudière. Le cuir manquait pour le remplacement
-  ds courroies usées.Le carburant de la camionnette fut remplacé par un gazogène puis
-  par deux bonbonnes de gaz.Les produits lessiviels manquaient.\n\nAprès les fréquentes
-  pannes de courant, il fallait remettre en marche. Tenir le bâtiment hors gel en
-  hiver était difficile vu le manque de carburant.\n\nLa paix enfin revenue, le lavoir
-  peut de nouveau évoluer et vers 1947, comme mon père voulait toujours être à la
-  pointe du progrès, le lavoir a eu besoin de se transformer.\n\nOn y agrandit l'étage
-  pour y installer une grande calandre de « m avec un cylindre de 0,70 de diamètre.\n\nPetit
-  à petit, on remplace les anciennes machines à tambour horizontal par des machines
-  automatiques et on augmente à 12 le nombre de cabines.\n\nQuelques années plus tard,
-  on allonge encore une partie de l'étalage pour y installer un groupe de repassage
-  de chemises.\n\nLe personnel devient plus nombreux. Mon oncle et mon père sont toujours
-  au poste et les épouses participent aussi :\n\n* trois ouvrières dont une responsable
-  pour le marquage, le lavage le séchage et le pliage\n* sept calandreuses\n* une
-  emballeuse qui dirige et fait les notes\n* trois repasseuses pour le groupe chemises\n*
-  deux repasseuses « main » chez elles pour linge plus fin\n* un ouvrier chauffeur
-  de chaudière qui commençait à 6h du matin\n* deux chauffeurs livreurs pour les deux
-  camionnettes d'une tonne\n* un ouvrier pour la mise en marche des trois essoreuses
-  et l'aide aux clientes\n* un magasinier pour aider à servir, peser les sachets de
-  savon, aider à la mise en bouteille de l'eau de javel et pour la mise en ordre\n*
-  un mécanicien pour l'entretien et la réalisation des perfectionnements imaginés
-  par papa\n\n  \nLes clientes prenaient rendez vous soit toutes les semaines, ou
-  toutes les deux, trois, quatre ou six semaines (sans rappel), donc automatiquement
+  ds courroies usées. Le carburant de la camionnette fut remplacé par un gazogène
+  puis par deux bonbonnes de gaz.Les produits lessiviels manquaient.\n\nAprès les
+  fréquentes pannes de courant, il fallait remettre en marche. Tenir le bâtiment hors
+  gel en hiver était difficile vu le manque de carburant.\n\nLa paix enfin revenue,
+  le lavoir peut de nouveau évoluer et vers 1947, comme mon père voulait toujours
+  être à la pointe du progrès, le lavoir a eu besoin de se transformer.\n\nOn y agrandit
+  l'étage pour y installer une grande calandre de « m avec un cylindre de 0,70 de
+  diamètre.\n\nPetit à petit, on remplace les anciennes machines à tambour horizontal
+  par des machines automatiques et on augmente à 12 le nombre de cabines.\n\nQuelques
+  années plus tard, on allonge encore une partie de l'étalage pour y installer un
+  groupe de repassage de chemises.\n\nLe personnel devient plus nombreux. Mon oncle
+  et mon père sont toujours au poste et les épouses participent aussi :\n\n* trois
+  ouvrières dont une responsable pour le marquage, le lavage le séchage et le pliage\n*
+  sept calandreuses\n* une emballeuse qui dirige et fait les notes\n* trois repasseuses
+  pour le groupe chemises\n* deux repasseuses « main » chez elles pour linge plus
+  fin\n* un ouvrier chauffeur de chaudière qui commençait à 6h du matin\n* deux chauffeurs
+  livreurs pour les deux camionnettes d'une tonne\n* un ouvrier pour la mise en marche
+  des trois essoreuses et l'aide aux clientes\n* un magasinier pour aider à servir,
+  peser les sachets de savon, aider à la mise en bouteille de l'eau de javel et pour
+  la mise en ordre\n* un mécanicien pour l'entretien et la réalisation des perfectionnements
+  imaginés par papa\n\n  \nLes clientes prenaient rendez vous soit toutes les semaines,
+  ou toutes les deux, trois, quatre ou six semaines (sans rappel), donc automatiquement
   un fois pour toutes. Les séances commençaient à huit heures, toutes les heures jusqu'à
   seize heures, les lundis, mardis, mercredis et jeudis.\n\nLe vendredi était pour
   la finition, les retours du linge fini et l'entretien et les transformations éventuelles.\n\nLe
