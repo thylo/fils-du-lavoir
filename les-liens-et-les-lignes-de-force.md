@@ -34,6 +34,5 @@ content: "### Uune famille d' « entrepreneur »\n\n* une succession de « s
   à cette marque d'amitié, de confiance précisément, je t'en remercie de tout cœur.\n\n(2) :
   Des « portes ouvertes » sur le Lavoir, le premier nettoyage à sec, Gazem...entr'autres.
      "
-published: false
 
 ---
