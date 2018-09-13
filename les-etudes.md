@@ -60,6 +60,5 @@ content: |-
   Il s'appliquera, par ses recherches et une inventivité, à approfondir les différents domaines d'activités auxquels il sera confronté. Jusqu'à ces rencontres et ces échanges de haut niveau avec des professeurs d'Université.
 
   Ce seront ses maîtres et ceux que j'ai appelés les « mentors de la maturité ». 
-published: false
 
 ---
