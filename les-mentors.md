@@ -60,6 +60,5 @@ content: |-
   A l'athénée, l'abbé Proost projetait des films plutôt à thèmes religieux, lors des cours de religion qu'il y donnait.
 
                                  « Regarde, mon petit père... ! »
-published: false
 
 ---
