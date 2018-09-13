@@ -84,6 +84,5 @@ content: "« Je ne suis jamais resté sans emploi » me dit Claude.\n\nCe que 
   Galeries Saint Hubert (1), à cette époque là, le cœur de LLN.\n\nElle accueille
   10 000 personnes en une semaine... c'est un franc succès !\n\n  \n(1) : Complicité....une
   petite période de nostalgie pour les initiés..."
-published: false
 
 ---
