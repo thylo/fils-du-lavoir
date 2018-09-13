@@ -115,4 +115,13 @@ content: |-
 
   A joindre à titre de document original : il vante entre autre tous les mérites et avantages du « blanchissage lors du ménage ».
 
+  Pendant une dizaine d'années, Claude gère en même temps le Super Cleaning de la Chasse et les Lavoirs.
+
+  Ceux-ci connaissent une évolution difficile, due à différentes causes :
+
+  * La réticence de certaines clientes à « changer leurs habitudes », ce qui freine la modernisation indispensable (voir plus haut).
+  * Le coût du personnel, en constante augmentation.
+  * Le manque de place, problème existant depuis les débuts du Lavoir, pour y installer de nouvelles machines.
+  * Le travail « de luxe », dû aux exigences de la clientèle, qui accentue le coût des prestations.
+
 ---
