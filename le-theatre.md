@@ -39,6 +39,5 @@ content: |-
   _Je le quitte pour raisons familiales après deux saisons._
 
   (1) : Suite à une incartade mineure (une sortie non autorisée) et sur injonction paternelle, Claude quitte brutalement l'abbaye d'Aulne.
-published: false
 
 ---
