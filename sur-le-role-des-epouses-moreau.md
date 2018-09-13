@@ -42,6 +42,5 @@ content: |-
   Plus tard, Louise se maria avec René. Elle perdit son mari un an plus tard mais mettait au monde ma cousine Claudine, qui a juste un mois de plus que moi. Elle fut en quelque sorte un peu comme ma demi sœur.
 
   Enfin, il y eut Lina, ma maman...
-published: false
 
 ---
