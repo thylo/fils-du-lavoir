@@ -114,6 +114,5 @@ content: |-
   Un remarquable petit livret (cfr document 2)- édité sans doute par l'association des Blanchisseurs illustre à merveille ce propos.
 
   A joindre à titre de document original : il vante entre autre tous les mérites et avantages du « blanchissage lors du ménage ».
-published: false
 
 ---
