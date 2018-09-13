@@ -14,6 +14,7 @@ fields:
   label: content
   name: content
 pages:
+- les-passions-de-claude.md
 - entreprises-personnelles-de-claude.md
 - isabelle.md
 - sur-le-role-des-epouses-moreau.md
