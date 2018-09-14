@@ -1,0 +1,13 @@
+---
+label: Dates
+hide_body: false
+is_partial: false
+fields:
+- type: field_group_list
+  name: itemsm
+  label: items
+  fields:
+  - type: include
+    template: date
+    label: date
+    name: date
