@@ -13,6 +13,11 @@ fields:
       format: markdown
   label: content
   name: content
+- type: blocks
+  name: blocks
+  label: Blocks
+  template_types:
+  - dates
 pages:
 - les-mentors-de-la-maturite.md
 - les-enfants-de-la-lignee-de-leur-pere.md
