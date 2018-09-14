@@ -19,12 +19,12 @@ fields:
   template_types:
   - dates
 pages:
+- histoire-des-lavoirs.md
 - dedicace.md
 - les-etudes.md
 - au-theatre-national.md
 - introduction.md
 - les-mentors.md
-- histoire-des-lavoirs.md
 - les-enfants-de-la-lignee-de-leur-pere.md
 - les-mentors-de-la-maturite.md
 - le-scoutisme.md

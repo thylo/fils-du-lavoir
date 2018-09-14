@@ -31,5 +31,8 @@ blocks:
 - template: dates
   date: '1932'
   description: "    La FONDATION des GRANDS LAVOIRS DE LA CHASSE"
+  itemsm:
+  - date: '1932'
+    description: La fondation des "Grands Lavoirs de la Chasse"
 
 ---
