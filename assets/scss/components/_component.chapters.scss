@@ -1,0 +1,12 @@
+.c-chapters{
+  background: #d4d4d4;
+  @media screen{
+    padding: $inuit-global-spacing-unit;
+  }
+  &__chapter{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    //border: 1px solid black;
+    break-before: page;
+  }
+}

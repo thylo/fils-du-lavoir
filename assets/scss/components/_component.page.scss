@@ -1,0 +1,16 @@
+.c-page{
+  @media screen{
+    padding-right: 24px;
+    padding-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1200px;
+  }
+  //
+  background: white;
+  border:1px solid #dedede;
+  padding: $inuit-global-spacing-unit;
+  margin-bottom: $inuit-global-spacing-unit;
+  //
+  //break-before: page;
+}

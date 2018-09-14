@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% assign chapters = site.chapters | sort %}
+
+<div class="c-chapters">
+{% for chapter in chapters %}
+<section class="c-chapters__chapter">
+    {{chapter}}
+</section>
+{% endfor%}
+</div>

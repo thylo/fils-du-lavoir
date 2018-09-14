@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<ul>
+{% for event in page.dates %}
+    <li>
+        <strong>{{ event.date }}</strong> - {{event.body}}
+    </li>
+{% endfor %}
+</ul>

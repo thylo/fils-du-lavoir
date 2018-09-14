@@ -26,9 +26,25 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+
+collections:
+  chapters:
+    output: false
+
+keep_files:
+- assets
+
+exclude:
+- node_modules
+- assets
+- Gemfile
+- Gemfile.lock
+- gulpfile.js
+- package.json
+- package-lock.json
+- README.md
+- webpack.config.js
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

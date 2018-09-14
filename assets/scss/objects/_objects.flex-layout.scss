@@ -1,0 +1,32 @@
+.o-flex-layout{
+  display:flex;
+  &--middle{
+    align-items: center;
+  }
+  &--space-between{
+    justify-content: space-between;
+  }
+  &--flex-start{
+    justify-content: flex-start;
+  }
+  &--flex-end{
+    justify-content: flex-end;
+  }
+  &--space-around{
+    justify-content: space-around;
+  }
+  &--center{
+    justify-content: center;
+  }
+  &__item{
+    &--fill{
+      flex-grow: 1;
+    }
+    &--shrink{
+      flex-shrink: 1;
+    }
+    &--no-shrink{
+      flex-shrink: 0;
+    }
+  }
+}
