@@ -19,6 +19,7 @@ fields:
   template_types:
   - dates
 pages:
+- histoire-des-lavoirs.md
 - les-mentors-de-la-maturite.md
 - les-enfants-de-la-lignee-de-leur-pere.md
 - les-etudes.md
@@ -30,7 +31,6 @@ pages:
 - sur-le-role-des-epouses-moreau.md
 - dedicace.md
 - introduction.md
-- histoire-des-lavoirs.md
 - les-grands-lavoirs-de-la-chasse-1.md
 - les-grands-lavoirs-de-la-chasse.md
 - au-theatre-national.md
