@@ -1,12 +1,23 @@
 ---
 layout: default
 ---
-{% assign chapters = site.chapters | sort %}
+
+{% assign chapters = site.chapters | sort: 'weight' %}
+{% assign fragments = site.fragments %}
 
 <div class="c-chapters">
 {% for chapter in chapters %}
-<section class="c-chapters__chapter">
-    {{chapter}}
-</section>
+    <section class="c-chapter">
+        <h2>{{chapter.title}}</h2>
+        <h3>{{chapter.slug}}</h3>
+        <div>
+            {% for fragment in fragments %}
+                {% if fragment.chapter == {{chapter.slug}} %}
+                    {{ fragment }}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </section>
 {% endfor%}
 </div>
+

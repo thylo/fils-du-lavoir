@@ -30,6 +30,8 @@ markdown: kramdown
 collections:
   chapters:
     output: false
+  fragments:
+    output: false
 
 keep_files:
 - assets
